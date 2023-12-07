@@ -27,3 +27,8 @@ $ npm run dev
 $ npm run build
 $ npm run deploy
 ```
+
+## 테스트
+
+- 유닛 테스트
+- E2E 테스트
